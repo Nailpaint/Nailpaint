@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nailpaint
-- 👀 I’m interested in: Frontend Developemnt
+- 👀 I’m interested in: Frontend Development
 - 🌱 I’m currently learning: HTML and CSS.
 - 💞️ I’m looking to collaborate on: nothing for now.
 - 📫 How to reach me: don't reach me.
